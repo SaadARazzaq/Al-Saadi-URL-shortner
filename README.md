@@ -4,8 +4,9 @@
 
 Al-Saadi URL Shortener is a simple web application built using Streamlit and the Pyshorteners library. It allows users to shorten (UNLIMITED) long URLs quickly and easily, No LOGIN Required 😉.
 
-![image](https://github.com/SaadARazzaq/Al-Saadi-URL-shortner/assets/123338307/e251bffc-f4ba-4cf7-aeee-b75d06186597)
-![image](https://github.com/SaadARazzaq/Al-Saadi-URL-shortner/assets/123338307/71aa5b32-22a6-401f-9a06-e523f3ed25cd)
+![image](https://github.com/SaadARazzaq/Al-Saadi-URL-shortner/assets/123338307/eeafae33-ba3e-4967-876f-3865d904589a)
+
+![image](https://github.com/SaadARazzaq/Al-Saadi-URL-shortner/assets/123338307/23107506-8d55-4451-a9bf-2f1fe858e928)
 
 ## Features 🌟
 
